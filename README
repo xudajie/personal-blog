@@ -1,0 +1,13 @@
+----前后端分离----
+
+----前端----
+cd my-vue  
+cnpm install
+cnpm run dev
+----后端----
+cd my-node
+cnpm install
+node app.js
+----数据库----
+mongoDB
+
